@@ -26,6 +26,6 @@ public abstract class SingleFragmentActivity extends AppCompatActivity {
             fm.beginTransaction().add(R.id.fragment_container,fragment).commit();
         }
 
-        // Hi Nhon here
+        // Hi Nhon here. Boss
     }
 }
